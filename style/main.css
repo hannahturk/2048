@@ -494,14 +494,14 @@ hr {
   padding: 0 50px;
   text-decoration: none;
   color: #f9f6f2;
-  height: 30px;
+  height: 40px;
   line-height: 42px;
   display: block;
   text-align: center;
   float: right; }
 
 .game-explanation {
-  margin-top: 50px; }
+  margin-top: 60px; }
 
 @media screen and (max-width: 520px) {
   html, body {
@@ -535,7 +535,7 @@ hr {
 
   .restart-button {
     width: 42%;
-    padding: 0;
+    padding: 10px;
     display: block;
     box-sizing: border-box;
     margin-top: 2px; }
